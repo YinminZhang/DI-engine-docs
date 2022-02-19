@@ -6,3 +6,4 @@ Introduction to RL
     :maxdepth: 2
 
     basic_en
+    offline_rl_en
